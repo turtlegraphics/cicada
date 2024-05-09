@@ -8,5 +8,5 @@ the same results.
 On the other hand, it implements a couple of very simple models that do result
 in broods with large prime periods.
 
-Check my blog for details.
+Check [my blog](https://turtlegraphics.wordpress.com/2024/05/09/the-cicada-game/) for details.
 
